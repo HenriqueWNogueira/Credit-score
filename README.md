@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rhatiro/Credit-score/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
 
-
+---
 
 ## Profissão: Cientista de Dados
 
@@ -8,11 +8,11 @@ Projeto 01 | Credit-score
 
 Por: Henrique Walcher Nogueira
 
-
+---
 
 Este repositório é referente ao primeiro projeto do curso Cientista de Dados, realizado pela EBAC
 
-
+---
 
 Dicionário de dados
 
