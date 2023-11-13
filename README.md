@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/rhatiro/Credit-score/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
 
 
-```python
-
-```
 
 ## Profissão: Cientista de Dados
 
@@ -12,16 +9,10 @@ Projeto 01 | Credit-score
 Por: Henrique Walcher Nogueira
 
 
-```python
-
-```
 
 Este repositório é referente ao primeiro projeto do curso Cientista de Dados, realizado pela EBAC
 
 
-```python
-
-```
 
 Dicionário de dados
 
@@ -46,6 +37,3 @@ Dicionário de dados
 | **mau** | indicadora de mau pagador (True = mau, False = bom) |binária|
 
 
-```python
-
-```
